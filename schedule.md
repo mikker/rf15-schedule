@@ -111,7 +111,7 @@
 | 20 | | | +00 Nils Frahm | | +30 Chelsea Wolfe | +30 First Aid Kit |
 | 21 | +30 Clark | +00 Tombs | | | | |
 | 22 | | +30 Deafheaven | +00 La Yegros | +00 Paul McCartney | +30 Selvhenter | |
-| 23 | +00 Dixon | | | | | +00 Africa Express |
-| 00 | | +00 Myrkur | +00 Drenge | | | |
+| 23 | | | | | | +00 Africa Express |
+| 00 | +00 Dixon | +00 Myrkur | +00 Drenge | | | |
 | 01 | | +30 Young and in the Way | | +30 Suspekt | +00 Øresund Space Collective | |
 | 02 | +00 Jamie XX | | +00 Kodaline | | | |
