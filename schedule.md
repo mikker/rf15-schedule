@@ -84,7 +84,7 @@
 | 13 | | +00 Broken Twin | | | | |
 | 14 | +00 Rangleklods | | +30 Susanne Sundfør | | +30 Carbo San Roque |
 | 15 | | +00 Metá Metá | | | | |
-| 16 | +00 Specktors + Nonsesn | | | | +30 Kippi Kaninus | +00 The Tallest Man on Earth |
+| 16 | +00 Specktors + Nonsens | | | | +30 Kippi Kaninus | +00 The Tallest Man on Earth |
 | 17 | | +00 Kwabs | +00 The Gaslamp Kille Experience | +00 Marie Key | | |
 | 18 | +00 Kate Tempest | +30 Dolomite Minor | | | +30 Lydia Ainsworth | +30 Lars H.U.G - Special Show |
 | 19 | | | | +30 Kendrick Lamar | | |
