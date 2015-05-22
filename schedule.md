@@ -39,7 +39,7 @@
 | 18 | +00 THRKNGS | +30 Fay Wildhagen |
 | 19 | +30 Vök | |
 | 20 | | +00 Hey Elbow |
-| 21 | +00 Silvana Imam | +30 Faraq |
+| 21 | +00 Silvana Imam | +30 Farao |
 | 22 | +30 Courtesy | |
 | 23 | | +00 Yung |
 
@@ -62,9 +62,9 @@
 | --: | --- | --- | --- | --- | --- | --- |
 | 12 | | +00 Sarabi | | +30 Foghorn Stringband | |
 | 13 | +00 DJ Mam | | +00 Every Time I Die | | | |
-| 14 | | +00 Steve Gunn | | | +00 Ezra Furman | +00 Veronica Maggio |
+| 14 | | +00 Khaira Arby | | | +00 Ezra Furman | +00 Veronica Maggio |
 | 15 | +00 Dalhous | | +00 G-Eazy | | | |
-| 16 | | +00 Khaira Arby | | | +30 Dreamer's Circus | +00 Jupiter & Okwess International |
+| 16 | | +00 Steve Gunn | | | +30 Dreamer's Circus | +00 Jupiter & Okwess International |
 | 17 | +00 Chancha Via Circuito | | +00 Father John Misty | +00 Ryan Adams | | |
 | 18 | | +00 Ferro Gaita | | | +30 Soak | +00 St. Vincent |
 | 19 | +00 Batida | | +00 Foxygen | +30 Florence + the Machine | | |
@@ -84,7 +84,7 @@
 | 13 | | +00 Broken Twin | | | | |
 | 14 | +00 Rangleklods | | +30 Susanne Sundfør | | +30 Carbo San Roque |
 | 15 | | +00 Metá Metá | | | | |
-| 16 | +00 Specktors + Nonsesn | | | | +30 Kippi Kaninus | +00 The Tallest Man on Earth |
+| 16 | +00 Specktors + Nonsens | | | | +30 Kippi Kaninus | +00 The Tallest Man on Earth |
 | 17 | | +00 Kwabs | +00 The Gaslamp Kille Experience | +00 Marie Key | | |
 | 18 | +00 Kate Tempest | +30 Dolomite Minor | | | +30 Lydia Ainsworth | +30 Lars H.U.G - Special Show |
 | 19 | | | | +30 Kendrick Lamar | | |
@@ -104,15 +104,14 @@
 | 13 | +00 Kane West | +00 Warm Graves | | | | |
 | 14 | | | +00 All Pigs Must Die | | +30 We Like We | +00 The Mountains |
 | 15 | +00 Seinabo Sey | +00 Perfect Pussy | | | | |
-| 16 | | | +00 The Polyversal Souls | | +30 TBA | +00 Whomadewho |
+| 16 | | | +00 The Polyversal Souls | | +30 Burnt Friedman & Jaki Liebezeit | +00 Whomadewho |
 | 17 | +00 Ukendt Kunstner | +00 Joanna Gruesome | | +00 Barrington Levy | | |
 | 18 | | | +00 Corosion of Conformity | | +30 Songhoy Blues | +00 Thåström |
 | 19 | +30 Kevin Gates | +00 Benjamin Booker | | +30 Nicki Minaj | | |
 | 20 | | | +00 Nils Frahm | | +30 Chelsea Wolfe | +30 First Aid Kit |
 | 21 | +30 Clark | +00 Tombs | | | | |
-| 22 | | +30 Deafheaven | +00 TBA | +00 Paul McCartney | +30 Selvhenter | |
-| 23 | +00 Dixon | | | | | +00 Africa Express |
-| 00 | | +00 Myrkur | +00 Drenge | | | |
-| 01 | | +30 Young and in the Way | | +30 Suspekt | +00 TBA | |
+| 22 | | +30 Deafheaven | +00 La Yegros | +00 Paul McCartney | +30 Selvhenter | |
+| 23 | | | | | | +00 Africa Express |
+| 00 | +00 Dixon | +00 Myrkur | +00 Drenge | | | |
+| 01 | | +30 Young and in the Way | | +30 Suspekt | +00 Øresund Space Collective | |
 | 02 | +00 Jamie XX | | +00 Kodaline | | | |
-
