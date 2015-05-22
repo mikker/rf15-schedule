@@ -62,9 +62,9 @@
 | --: | --- | --- | --- | --- | --- | --- |
 | 12 | | +00 Sarabi | | +30 Foghorn Stringband | |
 | 13 | +00 DJ Mam | | +00 Every Time I Die | | | |
-| 14 | | +00 Steve Gunn | | | +00 Ezra Furman | +00 Veronica Maggio |
+| 14 | | +00 Khaira Arby | | | +00 Ezra Furman | +00 Veronica Maggio |
 | 15 | +00 Dalhous | | +00 G-Eazy | | | |
-| 16 | | +00 Khaira Arby | | | +30 Dreamer's Circus | +00 Jupiter & Okwess International |
+| 16 | | +00 Steve Gunn | | | +30 Dreamer's Circus | +00 Jupiter & Okwess International |
 | 17 | +00 Chancha Via Circuito | | +00 Father John Misty | +00 Ryan Adams | | |
 | 18 | | +00 Ferro Gaita | | | +30 Soak | +00 St. Vincent |
 | 19 | +00 Batida | | +00 Foxygen | +30 Florence + the Machine | | |
@@ -115,4 +115,3 @@
 | 00 | | +00 Myrkur | +00 Drenge | | | |
 | 01 | | +30 Young and in the Way | | +30 Suspekt | +00 TBA | |
 | 02 | +00 Jamie XX | | +00 Kodaline | | | |
-
