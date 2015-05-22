@@ -39,7 +39,7 @@
 | 18 | +00 THRKNGS | +30 Fay Wildhagen |
 | 19 | +30 Vök | |
 | 20 | | +00 Hey Elbow |
-| 21 | +00 Silvana Imam | +30 Faraq |
+| 21 | +00 Silvana Imam | +30 Farao |
 | 22 | +30 Courtesy | |
 | 23 | | +00 Yung |
 
