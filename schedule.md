@@ -113,5 +113,5 @@
 | 22 | | +30 Deafheaven | +00 La Yegros | +00 Paul McCartney | +30 Selvhenter | |
 | 23 | +00 Dixon | | | | | +00 Africa Express |
 | 00 | | +00 Myrkur | +00 Drenge | | | |
-| 01 | | +30 Young and in the Way | | +30 Suspekt | +00 TBA | |
+| 01 | | +30 Young and in the Way | | +30 Suspekt | +00 Øresund Space Collective | |
 | 02 | +00 Jamie XX | | +00 Kodaline | | | |
