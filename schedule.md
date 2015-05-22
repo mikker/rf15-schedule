@@ -104,7 +104,7 @@
 | 13 | +00 Kane West | +00 Warm Graves | | | | |
 | 14 | | | +00 All Pigs Must Die | | +30 We Like We | +00 The Mountains |
 | 15 | +00 Seinabo Sey | +00 Perfect Pussy | | | | |
-| 16 | | | +00 The Polyversal Souls | | +30 TBA | +00 Whomadewho |
+| 16 | | | +00 The Polyversal Souls | | +30 Burnt Friedman & Jaki Liebezeit | +00 Whomadewho |
 | 17 | +00 Ukendt Kunstner | +00 Joanna Gruesome | | +00 Barrington Levy | | |
 | 18 | | | +00 Corosion of Conformity | | +30 Songhoy Blues | +00 Thåström |
 | 19 | +30 Kevin Gates | +00 Benjamin Booker | | +30 Nicki Minaj | | |
